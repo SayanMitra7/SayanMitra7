@@ -16,7 +16,7 @@ Hi there! I'm a **BCA student** passionate about coding, learning, and building 
 
 
 ## 📫 Connect with Me
-- 📧 Email: [(mitrasayan631.com)]
+- 📧 Email: mitrasayan631.com
 - 💼 LinkedIn: [(www.linkedin.com/in/sayan-mitra-a032b5215)]
 
 Thanks for stopping by! Let's **Code. Learn. Build. Repeat. 🔁**
