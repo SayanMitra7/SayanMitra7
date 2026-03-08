@@ -19,4 +19,3 @@ Hi there! I'm a **BCA student** passionate about coding, learning, and building 
 - 📧 Email: mitrasayan631@gmail.com
 - 💼 LinkedIn: [(www.linkedin.com/in/sayan-mitra-a032b5215)]
 
-Thanks for stopping by! Let's **Code. Learn. Build. Repeat. 🔁**
