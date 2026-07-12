@@ -5,8 +5,7 @@ Hi there! I'm a **BCA student** passionate about coding, learning, and building 
 ## 🚀 Skills & Tools
 - 🐍 Python  
 - 📊 Matplotlib  
-- 💻 C Programming  
-- ☕ Java  
+- 💻 C Programming   
 - 📚 Constantly Learning & Improving
 
 ## 📌 Current Focus
